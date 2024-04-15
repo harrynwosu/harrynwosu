@@ -8,7 +8,7 @@ I'm a computer science student from Nigeria, currently based in Chicago, Illinoi
 
 🔭 **Interests**
   - Fullstack Development
-  - Building backend systems and microserices
+  - Building backend systems and microservices
   - Distributed Systems
     
 🌱 I’m currently learning backend development in ***Go*** and ***Hacklang/PHP.***
