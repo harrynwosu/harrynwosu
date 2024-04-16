@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Harry.
 
-I'm a computer science student from Nigeria, currently based in Chicago, Illinois. Here's some info about me!
+I'm a computer science student originally from Nigeria, currently based in Chicago, Illinois. Here's some info about me!
 
 ⚙️  **Work Experience**
   - Incoming Software Engineer intern at Slack [San Francisco, CA. Summer 2024]
