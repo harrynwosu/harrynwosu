@@ -4,7 +4,9 @@ I'm a computer science student originally from Nigeria, currently based in Chica
 
 ⚙️  **Work Experience**
   - Software Engineer intern at Slack [San Francisco, CA. Summer 2024]
+    - VirtualHQ - Huddles, Lists, Clips
   - Software Engineer intern at Salesforce [San Francisco, CA. Summer 2023]
+    - Canvas Editor Experience, Quip 
 
 🔭 **Interests**
   - Fullstack Development
