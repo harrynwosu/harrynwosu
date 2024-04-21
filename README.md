@@ -10,6 +10,7 @@ I'm a computer science student originally from Nigeria, currently based in Chica
 
 🔭 **Interests**
   - Fullstack Development
+  - Frontend Development
   - Backend systems and microservices
   - Distributed Systems
     
