@@ -3,9 +3,9 @@
 I'm a computer science student originally from Nigeria, currently based in Chicago, Illinois. Here's some info about me!
 
 ⚙️  **Work Experience**
-  - Software Engineer intern at Slack [San Francisco, CA. Summer 2024]
+  - Software Engineering intern at Slack [San Francisco, CA. Summer 2024]
     - Virtual HQ - Huddles, Audio & Video Clips, Lists
-  - Software Engineer intern at Salesforce [San Francisco, CA. Summer 2023]
+  - Software Engineering intern at Salesforce [San Francisco, CA. Summer 2023]
     - Canvas Editor Experience, Quip 
 
 🔭 **Interests**
